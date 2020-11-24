@@ -16,7 +16,7 @@ O aplicativo funciona para administração de dados, tendo uma lista de Clientes
   - PUT
   - DELETE
   
-O aplicativo foi testado utilizando a API fornecida pela URL klebersouza.pro.net, mas algumas informações não foram obtidas já que a API não atendia aos requisitos específicos do aplicativo, tais como CPF, Dívida e Data de Nascimento.
+O aplicativo foi testado utilizando a API fornecida pela URL klebersouza.pro.net, mas foi criada uma nova API, na qual atendia aos requisitos específicos do aplicativo, tais como CPF, Dívida e Data de Nascimento.
 
 ## Youtube Video
 
